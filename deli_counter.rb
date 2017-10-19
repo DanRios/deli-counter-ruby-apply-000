@@ -9,6 +9,7 @@ if katz_deli.length == 0
     katz_deli << add
     end
   puts "You are currently number #{katz_deli.last} in line."
+  katz_deli
 end
 
 
